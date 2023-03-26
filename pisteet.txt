@@ -1,0 +1,28 @@
+
+
+
+kierros: 1, Pelaajan valinta: KIVI, tietokoneen valinta: PAPERI
+Pelaajan pisteet: 0 ja tietokoneen pisteet: 1
+
+
+
+kierros: 2, Pelaajan valinta: KIVI, tietokoneen valinta: PAPERI
+Pelaajan pisteet: 0 ja tietokoneen pisteet: 2
+
+
+
+kierros: 3, Pelaajan valinta: KIVI, tietokoneen valinta: SAKSET
+Pelaajan pisteet: 1 ja tietokoneen pisteet: 2
+
+
+
+kierros: 4, Pelaajan valinta: SAKSET, tietokoneen valinta: KIVI
+Pelaajan pisteet: 1 ja tietokoneen pisteet: 3
+
+
+
+kierros: 5, Pelaajan valinta: PAPERI, tietokoneen valinta: KIVI
+Pelaajan pisteet: 2 ja tietokoneen pisteet: 3
+
+
+
